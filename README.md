@@ -1,12 +1,12 @@
 # Creo: Real-Time Collaborative Canvas
 
-Built by [Harshit](https://www.hrsht.me).
-
-Project live at [Creo](https://creo.hrsht.me)
+Built by Khushvinder.
 
 
 
-<a href="https://youtu.be/6OiZJIKpL0c" target="_blank">
+
+
+
   <img width="1440" height="900" alt="Creo - The Collaborative Whiteboard" src="https://github.com/user-attachments/assets/50d6f518-7d22-418c-8e4d-3f5f454a0cd9" />
 </a>  
 <p><b>Creo - The Collaborative Whiteboard</b><a href="https://youtu.be/6OiZJIKpL0c" target="_blank">
